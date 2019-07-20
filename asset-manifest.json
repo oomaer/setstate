@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cyumair/setstate/static/css/main.5b32c828.chunk.css",
+    "main.js": "/cyumair/setstate/static/js/main.7f362804.chunk.js",
+    "main.js.map": "/cyumair/setstate/static/js/main.7f362804.chunk.js.map",
+    "runtime~main.js": "/cyumair/setstate/static/js/runtime~main.ba4d5faa.js",
+    "runtime~main.js.map": "/cyumair/setstate/static/js/runtime~main.ba4d5faa.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/cyumair/setstate/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.abeea29a.chunk.js": "/cyumair/setstate/static/js/2.abeea29a.chunk.js",
+    "static/js/2.abeea29a.chunk.js.map": "/cyumair/setstate/static/js/2.abeea29a.chunk.js.map",
+    "index.html": "/cyumair/setstate/index.html",
+    "precache-manifest.6747b3405c8bced612eb7d99b534e81d.js": "/cyumair/setstate/precache-manifest.6747b3405c8bced612eb7d99b534e81d.js",
+    "service-worker.js": "/cyumair/setstate/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/cyumair/setstate/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.5b32c828.chunk.css.map": "/cyumair/setstate/static/css/main.5b32c828.chunk.css.map",
+    "static/media/ai.png": "/cyumair/setstate/static/media/ai.a6bcaa58.png"
+  }
+}
